@@ -5,9 +5,6 @@ This tool generates and verifies digital signatures for files using SHA-256 hash
 Version : 0.0.1
 
 
-## Installation
-
-Install the package using pip:
 
 ## Installation
 
